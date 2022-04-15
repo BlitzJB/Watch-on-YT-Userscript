@@ -3,7 +3,7 @@ Userscript to insert watch on YT button onto our institute's class recordings pa
 YT video player >> Ecas
 
 Script hooks into XHR requests made by the client and extracts the youtube video id. 
-Then printing it into the console would have been fine, but there is such things called "asthetics" that some people talk about.
+Then printing it into the console would have been fine, but there are such things called "asthetics" that some people talk about.
 
 so it Inserts a nice button into the UI
 
